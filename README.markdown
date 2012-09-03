@@ -19,6 +19,8 @@ FERAL is being developed by [Silvia Schreier](http://www.fernuni-hagen.de/dvt/en
 We are researchers and engineers interested in Web architecture, the REST architectural style and developing models of RESTful systems.
 We have published several papers in this area, especially on modeling RESTful systems, and we are using these result as the foundation for FERAL:
 
+* [ArRESTed Development: Guidelines for Designing REST Frameworks](http://www.computer.org/portal/web/csdl/doi/10.1109/MIC.2012.60)
+* [A Finite-State Machine Approach for Modeling and Analyzing RESTful Systems](http://www.rintonpress.com/journals/jwe/abstractsJWE10-4.html)
 * [Formal Modeling of RESTful Systems Using Finite-State Machines](http://www.springerlink.com/content/j233175h2q3h7631/)
 * [Modeling RESTful applications](http://dl.acm.org/citation.cfm?doid=1967428.1967434)
 
